@@ -1,3 +1,10 @@
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
 # Prerequisites
 *.d
 
@@ -30,3 +37,6 @@
 *.exe
 *.out
 *.app
+/AbstractFactory/.vs
+/AbstractFactory/Debug
+/AbstractFactory/AbstractFactory/Debug
